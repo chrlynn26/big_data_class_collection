@@ -21,6 +21,7 @@ The first five courses served as an introduction to Big Data tools and concepts,
 
 *Graph Analytics for Big Data* involved Cypher queries in Neo4J to create social network graphs. These first five courses had detailed lessons and challenged me with the multitude of new Big Data tools I had to learn.
 
+<br \>
 
 ### Big Data - Capstone Project
 
