@@ -7,7 +7,9 @@ The following repository is a collection of my work for *Big Data - Capstone Pro
 * **Big Data Integration and Processing**
 * **Machine Learning with Big Data**
 * **GraphAnalyticsforBigData**
-* **Big Data - Capstone Project**
+* **Big Data - Capstone Project** 
+
+<br />
 
 The first five courses served as an introduction to Big Data tools and concepts, through guided coding tasks and quizzes. 
 
@@ -19,7 +21,7 @@ The first five courses served as an introduction to Big Data tools and concepts,
 
 *Machine Learning with Big Data* discussed cluster analysis, confusion matrices, and showcased KNIME and Python in a Jupyter Notebook for decision trees. 
 
-*Graph Analytics for Big Data* involved Cypher queries in Neo4J to create social network graphs. These first five courses had detailed lessons and challenged me with the multitude of new Big Data tools I had to learn.
+*Graph Analytics for Big Data* involved Cypher queries in Neo4J to create social network graphs. These first five courses had detailed lessons and challenged me with the multitude of new Big Data tools I had to learn. 
 
 <br />
 
@@ -28,7 +30,6 @@ The first five courses served as an introduction to Big Data tools and concepts,
 This final course was the most challenging of the specialization, requiring
 students to take skills learned throughout the previous courses and work on a large project. Since this course required the most independent thinking and was less lesson-oriented, only the work from the last course in the specialization is included in this repository. We were provided data for a fictional game, Catch the Pink Flamingo, which included player statistics, social circles, and purchases from a fictional in-app store. The goal was to explore how different Big Data tools can reveal more about the spending and social habits of its players to increase the fictional company’s revenue. The primary big data tools used were: Splunk, KNIME, Python, and NEO4J.
 
- 
 In this repository, you’ll find a Technical Appendix and final presentation slides with a detailed script of what I would say during a presentation. The **Technical Appendix** is a complete compendium of the work I have done for the Capstone. The **Final Capstone Presentation** serves as my final analysis of this assignment and features selected graphs from the Technical Appendix. Underneath each slide, there are descriptions that also function as a presentation script.
 
 This specialization was challenging and above all rewarding, and it taught me how various Big Data tools can be used together to solve everyday problems. With a solid understanding of Big Data fundamentals, there are a lot of tools I can choose between to help me in future analyses.
