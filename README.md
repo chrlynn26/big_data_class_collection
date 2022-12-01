@@ -9,7 +9,17 @@ The following repository is a collection of my work for *Big Data - Capstone Pro
 * **GraphAnalyticsforBigData**
 * **Big Data - Capstone Project**
 
-The first five courses served as an introduction to Big Data tools and concepts, through guided coding tasks and quizzes. *Introduction to Big Data* provided a thorough background of big data terminology and introduced Apache Hadoop. *Big Data Modeling and Managing Systems* discussed navigating data directories and data management for text and streaming data in real-time. This course also introduced SparkSQL queries on the cloud-computing platform, Cloudera Virtual Machine. *Big Data Integration and Processing* dived deeper into Apache Spark and also featured Apache Spark, MongoDB queries for JSON data, Splunk for generating graphs and reports, and also queries using a Postgres shell in Cloudera. This course introduced a lot of technology that was later used in depth in the remaining courses. *Machine Learning with Big Data* discussed cluster analysis, confusion matrices, and showcased KNIME and Python in a Jupyter Notebook for decision trees. *Graph Analytics for Big Data* involved Cypher queries in Neo4J to create social network graphs. These first five courses had detailed lessons and challenged me with the multitude of new Big Data tools I had to learn.
+The first five courses served as an introduction to Big Data tools and concepts, through guided coding tasks and quizzes. 
+
+*Introduction to Big Data* provided a thorough background of big data terminology and introduced Apache Hadoop. 
+
+*Big Data Modeling and Managing Systems* discussed navigating data directories and data management for text and streaming data in real-time. This course also introduced SparkSQL queries on the cloud-computing platform, Cloudera Virtual Machine. 
+
+*Big Data Integration and Processing* dived deeper into Apache Spark and also featured Apache Spark, MongoDB queries for JSON data, Splunk for generating graphs and reports, and also queries using a Postgres shell in Cloudera. This course introduced a lot of technology that was later used in depth in the remaining courses. 
+
+*Machine Learning with Big Data* discussed cluster analysis, confusion matrices, and showcased KNIME and Python in a Jupyter Notebook for decision trees. 
+
+*Graph Analytics for Big Data* involved Cypher queries in Neo4J to create social network graphs. These first five courses had detailed lessons and challenged me with the multitude of new Big Data tools I had to learn.
 
 
 ### Big Data - Capstone Project
