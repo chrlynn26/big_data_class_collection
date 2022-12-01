@@ -13,7 +13,9 @@ The following repository is a collection of my work for *Big Data - Capstone Pro
 
 <br />
 
-The first five courses served as an introduction to Big Data tools and concepts, through guided coding tasks and quizzes. 
+The first five courses served as an introduction to Big Data tools and concepts, through guided coding tasks and quizzes:
+
+<br />
 
 *Introduction to Big Data* provided a thorough background of big data terminology and introduced Apache Hadoop. 
 
