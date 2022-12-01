@@ -29,7 +29,7 @@ The first five courses served as an introduction to Big Data tools and concepts,
 
 <br />
 
-### Big Data - Capstone Project
+# Big Data - Capstone Project
 
 This final course was the most challenging of the specialization, requiring
 students to take skills learned throughout the previous courses and work on a large project. Since this course required the most independent thinking and was less lesson-oriented, only the work from the last course in the specialization is included in this repository. We were provided data for a fictional game, Catch the Pink Flamingo, which included player statistics, social circles, and purchases from a fictional in-app store. The goal was to explore how different Big Data tools can reveal more about the spending and social habits of its players to increase the fictional company’s revenue. The primary big data tools used were: Splunk, KNIME, Python, and NEO4J.
