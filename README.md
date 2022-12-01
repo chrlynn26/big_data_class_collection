@@ -2,6 +2,8 @@
 
 The following repository is a collection of my work for *Big Data - Capstone Project*, offered by the University of California San Diego on Coursera. This course is part of the Big Data Specialization, which consisted of the following six courses:
 
+<br />
+
 * **Introduction to Big Data**
 * **Big Data Modeling and Managing Systems**
 * **Big Data Integration and Processing**
