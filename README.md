@@ -1,6 +1,6 @@
 # big_data_class_collection_capstone
 
-The following repository is a collection of my work for *Big Data - Capstone Project*, offered by the University of California San Diego on Coursera. This course is part of the Big Data Specialization, which consisted of the following six courses:
+The following repository is a collection of my work for *Big Data: Capstone Project*, offered by the University of California San Diego on Coursera. This course is part of the Big Data Specialization, which consisted of the following six courses:
 
 <br />
 
